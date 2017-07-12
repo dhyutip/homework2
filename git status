@@ -1,0 +1,71 @@
+commit b08e07258c374ce702604a77bfc4ce240ea7cf10
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 21:10:00 2017 -0400
+
+    added summary
+
+commit cfa6bee085752bc627e2a178b30fe037ab24435f
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 21:04:45 2017 -0400
+
+    added section
+
+commit 72929a09a7e978c761b98bef3334ad22b2241617
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 20:59:19 2017 -0400
+
+    added paragraph
+
+commit 23cc443c41bcc41952332ce03bf26cffb503f67e
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 20:53:24 2017 -0400
+
+    added ordered list
+
+commit ef276f43e8500aaad67e65ce42b16fa9f5183022
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 20:49:19 2017 -0400
+
+    added font color white
+
+commit 3b0cd0ea5dd41a0be9325d9ed0db3e6032bdb03c
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 20:46:36 2017 -0400
+
+    added title
+
+commit 8a79b7a3a7d1af59e9a4bcfd96ec8e2e07e8d095
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 20:43:09 2017 -0400
+
+    added content separator
+
+commit 4d06d13a3b4ad645fb9214d19ee5115eefa3e9b1
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 20:38:48 2017 -0400
+
+    added line break
+
+commit 3ff89723850b0db164a6d63902f6c3ea4ab96e9b
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 20:24:52 2017 -0400
+
+    added blockquote
+
+commit e848db7ae19da4e7e5dbda24c7e6554542941994
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 20:18:02 2017 -0400
+
+    added italic
+
+commit 3bf10088dc5e836b73f2a5290bbe3b1951cb9905
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 20:14:25 2017 -0400
+
+    added bold
+
+commit ad13b0ae0cd54d7431c112df074704f82f71c190
+Author: Dhyuti Patel <dp579@afsconnect1.njit.edu>
+Date:   Mon Jun 5 19:47:44 2017 -0400
+
+    added index.html and style.css
